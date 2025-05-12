@@ -33,6 +33,10 @@ body {
 .initial-content,
 .search-content {
   flex: 1 0 auto;
+
+  background-image: url('/assets/images/mount-olympus/olympus-30-stefani.jpg');
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .page {
@@ -54,6 +58,8 @@ body {
     margin-right: 0;
     width: 100%;
     clear: both;
+    background-color: white;
+    padding: 1em;
 
     .page__content,
     .page__meta,
