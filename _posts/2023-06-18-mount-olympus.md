@@ -81,7 +81,7 @@ We set out early in the morning with the hopes of making it to the summit before
   <figcaption>On the way to Skala</figcaption>
 </figure>
 
-It was extremely foggy, even more so than the previous day. We were soon completely above the treeline, on a rocky and windy trail. We saw no one else out hiking this early. There were several large ice patches to the sides of the trail, some of which are glaciers. 
+It was extremely foggy, cold, and wet, even more so than the previous day. We were soon completely above the treeline, on a rocky and windy trail. We saw no one else out hiking this early. There were several large ice patches to the sides of the trail, some of which are glaciers. 
 
 After around 2 hours we reached Skala summit (2866m). Here there is a fork, to the left is Skolio summit and to the right is Mytikas summit, the highest peak on Mount Olympus and the highest point in Greece. 
 
@@ -89,7 +89,7 @@ After around 2 hours we reached Skala summit (2866m). Here there is a fork, to t
   <img src="/assets/images/mount-olympus/olympus-22-fog.jpg">
 </figure>
 
-We took the right path towards Mytikas. The terrain here becomes very mountainous, steep, and rocky. At several times, it is an exposed Class III rock scramble. Alex and I are experienced rock climbers and navigated without much difficulty. I found this part of the hike to be quite fun! It felt very remote and rugged, and looked exactly like what one might imagine for "climbing a mountain."
+We took the right path towards Mytikas. The terrain here becomes very mountainous, steep, and rocky. At several times, it is an exposed Class III rock scramble. Alex and I are experienced rock climbers and navigated without much difficulty. I found this part of the hike to be quite fun! It felt very remote and rugged, and really felt like we were climbing a mountain. 
 
 <figure class="half">
   <img src="/assets/images/mount-olympus/olympus-15-scramble.jpg">
