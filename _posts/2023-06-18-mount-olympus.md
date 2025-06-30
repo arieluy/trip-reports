@@ -176,6 +176,10 @@ We reached Petrostrouga refuge (1940m) for some lunch. After this, the trail bec
   <figcaption>Petrostrouga refuge and heading back into the forest</figcaption>
 </figure>
 
+## Highlights
+
+I really enjoyed the scrambling section right before the Mytikas summit. It was a fun challenge and not something I had done before. 
+
 ## Challenges
 
 The main challenges were planning around the weather and acquiring reservations for the refuges. The language barrier also sometimes limited communication with other hikers on the mountain.
