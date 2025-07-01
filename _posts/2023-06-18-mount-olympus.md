@@ -1,6 +1,6 @@
 ---
 title: "Summitting Mount Olympus, Greece"
-date: 2023-11-25
+date: 2023-06-18
 excerpt: A backpacking trip to the home of the ancient Greek gods
 categories:
   - blog

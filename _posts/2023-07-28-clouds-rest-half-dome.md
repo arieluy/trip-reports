@@ -1,6 +1,6 @@
 ---
 title: "Clouds Rest and Half Dome"
-date: 2023-11-25
+date: 2023-07-28
 excerpt: A backpacking trip through Yosemite National Park
 categories:
   - blog
