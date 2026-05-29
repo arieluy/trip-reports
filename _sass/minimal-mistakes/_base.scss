@@ -208,6 +208,7 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+    dynamic-range-limit:standard;
   }
 
   > a {
