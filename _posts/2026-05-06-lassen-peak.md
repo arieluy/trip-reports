@@ -10,6 +10,7 @@ tags:
   - summit
 header:
   teaser: /assets/images/lassen-peak/000-lassen.jpg
+featured: true
 ---
 
 <div>

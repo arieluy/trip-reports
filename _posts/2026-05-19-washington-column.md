@@ -8,6 +8,7 @@ tags:
   - climbing
 header:
   teaser: /assets/images/washington-column/000-valley.jpg
+featured: true
 ---
 
 <div>

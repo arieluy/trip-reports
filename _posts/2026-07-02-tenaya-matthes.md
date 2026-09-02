@@ -9,6 +9,7 @@ tags:
   - summit
 header:
   teaser: /assets/images/tenaya-matthes/000-matthes-crest.jpg
+featured: true
 ---
 
 Last year, Louie and I had a great time climbing [Cathedral Peak (5.7, 5 pitches)](/blog/cathedral-peak) in Tuolumne Meadows, Yosemite. This year, both of us being much stronger, faster, and more experienced climbers, and also both being unemployed, we set a significantly more ambitious itinerary:

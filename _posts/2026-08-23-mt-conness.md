@@ -10,6 +10,7 @@ tags:
   - backpacking
 header:
   teaser: /assets/images/mt-conness/000-conness.jpg
+featured: true
 ---
 
 <div>

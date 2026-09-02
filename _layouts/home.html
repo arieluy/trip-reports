@@ -4,7 +4,8 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle !text-white">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle2">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+{% assign entries_layout = 'grid' %}
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -12,10 +13,16 @@ layout: archive
   {% assign posts = site.posts %}
 {% endif %}
 
-{% assign entries_layout = 'grid' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
+    {% if post.featured %}
+      {% include archive-single.html type=entries_layout %}
+    {% endif %}
+  {% endfor %}
+  {% for post in posts %}
+    {% if post.featured != true %}
+      {% include archive-single.html type=entries_layout %}
+    {% endif %}
   {% endfor %}
 </div>
 
